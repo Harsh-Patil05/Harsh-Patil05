@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a technolo
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![J2EE](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![SpringBoot](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 
 ![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Patil05&show_icons=true&theme=dark)
