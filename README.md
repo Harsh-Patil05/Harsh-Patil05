@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer and a technology enthusiast with a love for building web applications, exploring technologies, and solving challenging problems through code.
 
-- 🌱 I’m currently learning *Spring-Boot* and diving deeper into *Full Stack Development*.
+- 🌱 I’m currently learning *Spring-Boot* and diving deeper into **Full Stack Development**.
 - 🔭 I’m currently working on personal projects to show my skills in full-stack java development.
-- 👯 I’m looking to collaborate on *open-source projects, especially in the areas of **Java Full Stack*.
+- 👯 I’m looking to collaborate on *open-source projects, especially in the areas of **Java Full Stack**.
 - 🤔 I’m looking for help with *Advanced technology and cloud deployment strategies*.
-- 💬 Ask me about *Java EE Technologies, **Spring-Boot, and **Web Development*.
+- 💬 Ask me about **Java EE Technologies**, **Spring-Boot**, and **Web Development**.
 - 📫 How to reach me: You can send me an email at *harsh.d.patil555@gmail.com* or connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-patil-32480b30b/).
 - ⚡ Fun fact: I love exploring new technologies and frameworks, and I’m always up for a coding challenge!
 ---
